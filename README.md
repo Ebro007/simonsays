@@ -1,3 +1,3 @@
-# simonsays
+# simonsays2
 This is a color sequence game for pi class.
-v0.1.2
+v1.0.0
